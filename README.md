@@ -321,3 +321,29 @@ Tesla menjadi contoh utama bahwa kecerdasan buatan harus dikembangkan dengan pen
 3. Konsumen harus diberikan pengetahuan mengenai keterbatasan teknologi.
 4. Indonesia harus mempersiapkan peraturan untuk teknologi masa depan.
 5. Profesi di bidang teknologi harus memprioritaskan keselamatan publik.
+
+### DAFTAR PUSTAKA
+
+1. National Highway Traffic Safety Administration (NHTSA). (2023). *Tesla Model S Safety Recalls and Investigations*. Diakses dari:  
+   https://www.nhtsa.gov/vehicle/2023/TESLA/MODEL%252520S#recalls
+
+2. National Highway Traffic Safety Administration (NHTSA). (2023). *Tesla Autopilot Safety Investigation Press Release*. Diakses dari:  
+   https://www.nhtsa.gov/press-releases/tesla-autopilot-investigation
+
+3. Consumer Reports. (2024). *Tesla Safety Investigations and Consumer Safety Concerns*. Diakses dari:  
+   https://www.consumerreports.org/
+
+4. TechCrunch. (2024). *Tesla Recall and Autonomous Driving Coverage*. Diakses dari:  
+   https://techcrunch.com/
+
+5. Reuters. (2024). *U.S. Opens Probe Into Tesla Crashes Involving Full Self-Driving*. Diakses dari:  
+   https://www.reuters.com/world/us/us-opens-probe-into-24-tesla-crashes-involving-full-self-driving-2024-04-26/
+
+6. Republik Indonesia. (2008). *Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik*. Diakses dari:  
+   https://jdih.kominfo.go.id/
+
+7. Republik Indonesia. (1999). *Undang-Undang Nomor 8 Tahun 1999 tentang Perlindungan Konsumen*. Diakses dari:  
+   https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999
+
+8. Constitutum: Jurnal Ilmiah Hukum. (2024). *Tanggung Jawab Pelaku Usaha terhadap Risiko Kecacatan Produk bagi Konsumen Mobil Listrik dengan Fitur Kendali Otomatis (Self-Driving) Berdasarkan Undang-Undang Nomor 8 Tahun 1999 tentang Perlindungan Konsumen*. Diakses dari:  
+   https://ejournal.borobudur.ac.id/index.php/cjih/article/view/1477
