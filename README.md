@@ -9,7 +9,7 @@ Namun, perkembangan ini juga menimbulkan tantangan serius. Sistem yang belum sep
 Kasus ini penting untuk dianalisis karena menunjukkan bahwa inovasi teknologi dapat menimbulkan dampak negatif jika tidak diimbangi dengan etika profesi, regulasi, dan tanggung jawab sosial.
 
 ## 1.2 Tujuan Memilih Topik
-Topik ini dipilih karena Tesla Autopilot/FSD merupakan contoh nyata teknologi AI modern yang memiliki manfaat besar sekaligus risiko serius. Alasannya Karena:
+Topik ini dipilih karena Tesla Autopilot/FSD merupakan contoh nyata teknologi AI modern yang memiliki manfaat besar sekaligus risiko serius.  Alasannya Karena:
 - Adanya kesenjangan antara perkembangan teknologi AI dan kesiapan regulasi
 - Kurangnya pemahaman masyarakat terkait batasan penggunaan sistem semi-otonom
 - Pentingnya evaluasi tanggung jawab perusahaan teknologi terhadap pengguna
