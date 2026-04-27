@@ -277,3 +277,26 @@ Kasus Tesla dapat menjadi referensi penting bagi Indonesia dalam menyiapkan regu
 
 ### Kesimpulan Hukum Indonesia
 Indonesia perlu belajar dari kasus Tesla agar perkembangan teknologi masa depan tidak hanya fokus pada inovasi, tetapi juga memastikan perlindungan hukum, etika, dan keselamatan masyarakat.
+
+# BAB V: PERSPEKTIF SOSIAL DI INDONESIA
+
+## 5.1 Kondisi Sosial dan Perilaku Pengguna
+
+Analisis terhadap kasus Tesla Autopilot/FSD menunjukkan bahwa efektivitas teknologi otonom tidak hanya bergantung pada kecanggihan algoritma, tetapi juga pada kesiapan sosiologis penggunanya. Di Indonesia, terdapat beberapa pola perilaku sosial yang menjadi tantangan besar dalam adopsi teknologi serupa:
+**Rendahnya Kepatuhan terhadap Aturan Lalu Lintas: Masyarakat Indonesia masih sering ditemukan melakukan pelanggaran aturan seperti melawan arus atau mengabaikan marka jalan, yang berisiko membingungkan sistem kecerdasan buatan (AI) yang dirancang berdasarkan keteraturan hukum.
+**Kecenderungan Mengabaikan Lisensi dan Prosedur: Terdapat pola di mana pengguna menganggap remeh lisensi atau panduan penggunaan (manual book), sehingga potensi penyalahgunaan teknologi menjadi sangat tinggi.
+**Penggunaan Teknologi Tanpa Pemahaman Risiko *Overreliance*: Sejalan dengan temuan pada kasus Tesla, masyarakat Indonesia sering kali menggunakan teknologi baru karena tren tanpa memahami batasan teknis dan risiko keselamatannya.
+**Normalisasi Pelanggaran Kolektif: Adanya pola pikir yang menganggap kebiasaan mayoritas sebagai pembenaran, meskipun hal tersebut melanggar etika atau hukum yang berlaku.
+
+## 5.2 Studi Kasus Serupa dalam Konteks Digital Indonesia
+Fenomena ketidaksiapan etika dalam menghadapi teknologi di Indonesia tercermin dalam beberapa kasus nyata yang memiliki kemiripan fundamental dengan persoalan etika pada Tesla:
+**Pelanggaran Hak Kekayaan Intelektual: Maraknya pembajakan software dan penggunaan perangkat lunak ilegal menunjukkan rendahnya penghargaan terhadap integritas profesi pengembang teknologi.
+**Penyalahgunaan Akun dan Identitas Digital: Kasus penyalahgunaan akun digital mencerminkan kurangnya tanggung jawab moral dalam pemanfaatan sistem informasi.
+**Ketidakakuratan Informasi Produk: Kemiripan dengan kasus "penamaan fitur yang ambigu" pada Tesla juga terjadi pada pemasaran produk teknologi di Indonesia yang terkadang menyesatkan konsumen, melanggar semangat UU Perlindungan Konsumen dan UU ITE.
+
+## 5.3 Pelajaran Sosial dan Rekomendasi Pengembangan
+Berdasarkan analisis multi-kasus investigasi NHTSA 2023-2025, Indonesia harus mengambil pelajaran sosial yang krusial sebelum mengadopsi teknologi otonom secara massal:
+**Urgensi Kesadaran Hukum dan Etika Digital: Pengguna teknologi di Indonesia wajib dibekali edukasi mengenai tanggung jawab moral bahwa nyawa manusia harus selalu menjadi prioritas di atas kenyamanan teknologi.
+**Perlunya Regulasi yang Adaptif dan Kuat: Indonesia harus segera menyiapkan payung hukum yang spesifik mengatur kecerdasan buatan untuk memastikan perusahaan teknologi bertanggung jawab penuh atas dampak produknya.
+**Transparansi dan Integritas Profesi: Para praktisi IT di Indonesia harus memegang teguh kode etik profesi (seperti ACM/IEEE) dengan mengutamakan keselamatan publik di atas kepentingan bisnis semata.
+**Edukasi Batasan Teknologi: Masyarakat harus diedukasi secara masif bahwa teknologi AI saat ini belum sepenuhnya matang dan tetap membutuhkan pengawasan manusia secara aktif untuk menghindari kecelakaan fatal
