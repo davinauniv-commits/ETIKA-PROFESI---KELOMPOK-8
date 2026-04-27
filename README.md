@@ -28,6 +28,103 @@ Topik ini dipilih karena Tesla Autopilot/FSD merupakan contoh nyata teknologi AI
 - Relevan dengan perkembangan teknologi masa depan
 - Memberikan pembelajaran bagi masyarakat Indonesia
 
+# BAB II PEMBAHASAN KASUS
+
+## 2.1 Profil Singkat Tesla Autopilot / Full Self-Driving (FSD)
+
+Tesla Autopilot adalah sistem Advanced Driver Assistance System (ADAS) yang dirancang untuk membantu pengemudi dalam tugas tertentu seperti menjaga jalur, adaptive cruise control, pengereman otomatis, dan navigasi semi-otomatis. 
+
+Sementara itu, Full Self-Driving (FSD) merupakan pengembangan lebih lanjut yang menawarkan fitur lebih kompleks seperti:
+- Navigasi otomatis di jalan kota
+- Perubahan jalur otomatis
+- Parkir otomatis
+- Respons terhadap lampu lalu lintas
+
+Namun secara hukum dan teknis, baik Autopilot maupun FSD bukan kendaraan otonom penuh (Level 5). Tesla sendiri menyatakan bahwa pengemudi tetap harus aktif mengawasi kendaraan setiap saat.
+
+Permasalahan muncul karena istilah “Autopilot” dan “Full Self-Driving” dinilai oleh banyak pihak berpotensi menimbulkan persepsi bahwa kendaraan dapat mengemudi sendiri secara penuh, sehingga meningkatkan risiko overconfidence pengguna.
+
+Teknologi ini menuai kontroversi karena:
+- Di satu sisi dianggap inovatif
+- Di sisi lain dianggap belum matang untuk digunakan secara luas tanpa risiko besar terhadap keselamatan publik
+
+## 2.2 Kronologi Kasus Nyata Tesla Autopilot/FSD (2023–2025)
+
+### A. Recall Tesla FSD Beta 2023 (362.758 kendaraan)
+
+Pada Februari 2023, NHTSA (National Highway Traffic Safety Administration) mengumumkan bahwa Tesla melakukan recall terhadap sekitar 362.758 kendaraan yang menggunakan perangkat lunak FSD Beta.
+
+Investigasi menemukan bahwa sistem dapat menyebabkan kendaraan:
+- Melewati batas kecepatan
+- Menerobos persimpangan secara tidak aman
+- Tidak berhenti sempurna di lampu kuning tertentu
+- Berperilaku tidak terduga di jalan raya
+
+**Analisis:**
+
+Kasus ini menunjukkan bahwa AI pengemudi belum mampu secara konsisten mematuhi aturan lalu lintas manusia.
+
+### B. Investigasi Kecelakaan Autopilot dengan Kendaraan Darurat (2024)
+
+Pada April 2024, NHTSA menyoroti investigasi terhadap hampir 1.000 kecelakaan yang melibatkan Tesla Autopilot sejak 2018, termasuk sedikitnya 13 kematian akibat tabrakan dengan kendaraan darurat seperti:
+- Ambulans
+- Mobil polisi
+- Truk pemadam kebakaran
+
+Masalah utama ditemukan pada:
+- Deteksi objek statis yang lemah
+- Monitoring perhatian pengemudi yang tidak efektif
+- Pengguna terlalu bergantung pada sistem
+
+**Analisis:**
+
+Kasus ini memperlihatkan bahwa teknologi bantuan pengemudi dapat gagal pada kondisi kritis meskipun pengguna percaya sistem aman.
+
+### C. Recall 2 Juta Kendaraan Tesla karena Driver Monitoring Lemah (Desember 2023 – berdampak 2024)
+
+Tesla melakukan recall terhadap lebih dari 2 juta kendaraan di Amerika Serikat setelah regulator menemukan bahwa sistem peringatan pengemudi tidak cukup memastikan pengemudi tetap fokus.
+
+**Masalah utama:**
+- Pengemudi bisa mengabaikan jalan terlalu lama
+- Sistem mudah disalahgunakan
+- Tanggung jawab manusia berkurang karena desain antarmuka
+
+**Analisis:**
+Masalah bukan hanya pada AI, tetapi juga pada desain interaksi manusia-mesin (Human-Computer Interaction).
+
+
+### D. Investigasi Kondisi Visibilitas Rendah (2025)
+
+NHTSA melanjutkan investigasi terkait performa Tesla dalam kondisi:
+- Kabut
+- Hujan deras
+- Silau matahari
+- Debu atau asap
+
+Kecelakaan pada kondisi ini menunjukkan bahwa sensor kamera dan algoritma AI memiliki keterbatasan pada lingkungan dunia nyata yang kompleks.
+
+**Isu utama:**
+- Sensor-only approach (tanpa LiDAR) dipertanyakan
+- AI kesulitan mengenali bahaya dalam situasi ambigu
+- Risiko publik meningkat
+
+## 2.3 Faktor Penyebab Utama
+
+### 1. Overreliance (Ketergantungan Berlebihan Pengguna)
+Banyak pengguna terlalu percaya pada sistem dan menganggap kendaraan mampu mengemudi sepenuhnya.
+
+### 2. Penamaan Produk yang Ambigu
+Istilah “Autopilot” dan “Full Self-Driving” dinilai dapat menyesatkan persepsi publik.
+
+### 3. Driver Monitoring Lemah
+Sistem pengawasan pengemudi dianggap belum cukup kuat untuk memastikan perhatian manusia.
+
+### 4. Teknologi Belum Matang
+AI masih kesulitan menghadapi skenario tidak terduga.
+
+### 5. Pemasaran Berlebihan
+Promosi teknologi yang terlalu optimis dapat mendorong ekspektasi yang tidak realistis.
+
 
 # BAB III ANALISIS ETIKA, MORAL, DAN ETIKA PROFESI
 
