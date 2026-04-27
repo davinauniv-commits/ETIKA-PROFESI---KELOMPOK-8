@@ -300,3 +300,24 @@ Berdasarkan analisis multi-kasus investigasi NHTSA 2023-2025, Indonesia harus me
 **Perlunya Regulasi yang Adaptif dan Kuat: Indonesia harus segera menyiapkan payung hukum yang spesifik mengatur kecerdasan buatan untuk memastikan perusahaan teknologi bertanggung jawab penuh atas dampak produknya.
 **Transparansi dan Integritas Profesi: Para praktisi IT di Indonesia harus memegang teguh kode etik profesi (seperti ACM/IEEE) dengan mengutamakan keselamatan publik di atas kepentingan bisnis semata.
 **Edukasi Batasan Teknologi: Masyarakat harus diedukasi secara masif bahwa teknologi AI saat ini belum sepenuhnya matang dan tetap membutuhkan pengawasan manusia secara aktif untuk menghindari kecelakaan fatal
+
+# BAB VI PENUTUP
+
+## 6. 1 Kesimpulan
+Kasus Tesla Autopilot/FSD menunjukkan bahwa:
+• Teknologi canggih tidak selalu menjamin keamanan.
+• Etika harus sejalan dengan kemajuan inovasi.
+• Nilai-nilai perusahaan sangat krusial.
+• Etika dalam profesi harus diterapkan.
+• Aturan hukum perlu mengikuti kemajuan teknologi.
+• Kesadaran masyarakat merupakan faktor yang sangat penting.
+Kesimpulan Akhir:
+Perkembangan teknologi tanpa adanya pengawasan yang kuat dalam aspek etis, moral, dan hukum bisa menjadi ancaman serius bagi masyarakat. 
+Tesla menjadi contoh utama bahwa kecerdasan buatan harus dikembangkan dengan penuh tanggung jawab.
+
+## 6. 2 Saran
+1. Pengembangan kecerdasan buatan harus lebih ketat dalam hal etika.
+2. Aturan untuk kendaraan otonom perlu diperkuat.
+3. Konsumen harus diberikan pengetahuan mengenai keterbatasan teknologi.
+4. Indonesia harus mempersiapkan peraturan untuk teknologi masa depan.
+5. Profesi di bidang teknologi harus memprioritaskan keselamatan publik.
