@@ -2,11 +2,11 @@
 Topik: Kecelakaan Tesla Autopilot / FSD — Multi-kasus (NHTSA Investigation 2023–2025)
 
 ## Anggota Kelompok 8:
-### Nailah Alyacalista Salsabill (4524210075)
-### Okta Yudha Ramadhan	(4524210079)
-### Raudha Hafsha Aqila	(4524210123)
-### Davina Arthamevia Azahra (4524210127)
-### Refani Usman (4524210144)
+1. Nailah Alyacalista Salsabill (4524210075)
+2. Okta Yudha Ramadhan	(4524210079)
+3. Raudha Hafsha Aqila	(4524210123)
+4. Davina Arthamevia Azahra (4524210127)
+5. Refani Usman (4524210144)
 
 
 # BAB I PENDAHULUAN
