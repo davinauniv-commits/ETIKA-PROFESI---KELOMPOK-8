@@ -1,7 +1,3 @@
- bab-3-analisis-etika
-# ETIKA-PROFESI---KELOMPOK-8
-Topik: Kecelakaan Tesla Autopilot / FSD — Multi-kasus (NHTSA Investigation 2023–2025)
-
 ## BAB III ANALISIS ETIKA, MORAL, DAN ETIKA PROFESI
 
 ### 3.1 Analisis Etika Teknologi
