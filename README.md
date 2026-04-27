@@ -11,7 +11,6 @@ Kasus ini penting untuk dianalisis karena menunjukkan bahwa inovasi teknologi da
 ## 1.2 Tujuan Memilih Topik
 Topik ini dipilih karena Tesla Autopilot/FSD merupakan contoh nyata teknologi AI modern yang memiliki manfaat besar sekaligus risiko serius. Alasannya Karena:
 - Adanya kesenjangan antara perkembangan teknologi AI dan kesiapan regulasi
-- Kurangnya pemahaman masyarakat terkait batasan penggunaan sistem semi-otonom
 - Pentingnya evaluasi tanggung jawab perusahaan teknologi terhadap pengguna
 - Menjadi studi kasus yang relevan untuk penerapan etika profesi di bidang teknologi
 - Memberikan dasar analisis bagi pengembangan kebijakan teknologi yang lebih aman di masa depan
