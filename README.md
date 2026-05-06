@@ -15,6 +15,23 @@
 | 4 | Davina Arthamevia Azahra | 4524210127 |
 | 5 | Refani Usman | 4524210144 |
 
+## Video Presentasi
+
+### Kecelakaan Tesla Autopilot / FSD
+
+<p align="center">
+  <a href="https://youtu.be/RnSGY_4j-gg?si=dar7nB9FVGLUf9oI">
+    <img src="https://img.youtube.com/vi/RnSGY_4j-gg/0.jpg" alt="Tesla Autopilot Crash Video" width="600">
+  </a>
+</p>
+
+<p align="center">
+  ▶️ Klik gambar untuk menonton video di YouTube
+</p>
+
+🔗 Link langsung:  
+https://youtu.be/RnSGY_4j-gg?si=dar7nB9FVGLUf9oI
+
 ---
 
 ## DAFTAR ISI
