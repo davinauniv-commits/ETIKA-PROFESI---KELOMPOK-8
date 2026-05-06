@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  ▶️ Klik gambar untuk menonton video di YouTube
+  Klik gambar untuk menonton video di YouTube
 </p>
 
 🔗 Link langsung:  
